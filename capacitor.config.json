@@ -1,0 +1,7 @@
+{
+  "appId": "com.moneyboard.app",
+  "appName": "Moneyboard",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "backgroundColor": "#0c111d" }
+}
